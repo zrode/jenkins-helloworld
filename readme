@@ -1,1 +1,5 @@
-Le but ici est de créer un pipeline et d'utiliser le Jenkinsfile
+Le but ici est de créer un pipeline simple et d'utiliser le Jenkinsfile
+Il y a 3 stages :
+- clone
+- build
+- run
